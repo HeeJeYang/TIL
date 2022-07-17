@@ -6,7 +6,6 @@
 
 
 ## **Commit Message Rule**
----
 
 **1. Github commit 메세지 규칙의 필요성**
 
@@ -15,11 +14,13 @@
   
 **2. Commit 메세지 작성 요령**
 
->타입(Type): 제목(Subject)
->
->본문(Body) - 선택 사항
->
->꼬리말(Footer) - Issue Tracker ID
+```
+타입(Type): 제목(Subject)
+
+본문(Body) - 선택 사항
+
+꼬리말(Footer) - Issue Tracker ID
+```
 
 **2.1. 타입(Type)**   
 
@@ -42,7 +43,9 @@
 
 ※ 타입(Type) - 제목(Subject) 예시  
 
-> Docs: git 관련 Error Handling 추가
+```
+Docs: git 관련 Error Handling 추가
+```
 
 **2.3. 본문(Body)**
 - 선택 사항이기에 모든 commit에 본문 내용을 작성할 필요는 없습니다.
@@ -52,10 +55,12 @@
 
 ※ 본문(Body) 예시
 
-> Docs : python 관련 command 파일 이름 변경
-> 
-> 파일 이름의 통일성을 위한 이름 변경  
->   ― command -> commands  
+```
+Docs : python 관련 command 파일 이름 변경
+
+파일 이름의 통일성을 위한 이름 변경  
+  ― command -> commands  
+```
 
 **2.4. 꼬리말(Footer)**
 - 선택 사항이므로 모든 commit에 꼬리말을 작성할 필요는 없습니다.
@@ -71,12 +76,14 @@
 
 ※ 작성할 Commit 메세지 예시
 
-> Docs : python 관련 command 파일 이름 변경
-> 
-> 파일 이름의 통일성을 위한 이름 변경  
->   ― command -> commands  
->
-> 참고: #57
+```
+Docs : python 관련 command 파일 이름 변경
+
+파일 이름의 통일성을 위한 이름 변경  
+  ― command -> commands  
+
+참고: #57
+```
 
 ***
 
