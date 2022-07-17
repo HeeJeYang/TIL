@@ -1,3 +1,5 @@
+# 더블더블
+
 T = int(input())
 c = 0
 while c <= T:

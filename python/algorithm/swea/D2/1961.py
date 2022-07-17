@@ -1,3 +1,5 @@
+# 숫자 배열 회전
+
 T = int(input())
 for test_case in range(1, T + 1):
     L = int(input())

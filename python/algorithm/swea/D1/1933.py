@@ -1,3 +1,5 @@
+# 간단한 N 의 약수
+
 T = int(input())
 d = 1
 while d <= T:

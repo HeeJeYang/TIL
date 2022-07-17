@@ -1,3 +1,5 @@
+# [S/W 문제해결 기본] 7일차 - 미로1
+
 L = 16
 notWall = ["0", "3"]
 for test_case in range(1, 11):

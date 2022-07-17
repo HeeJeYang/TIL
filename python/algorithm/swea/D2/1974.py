@@ -1,3 +1,5 @@
+# 스도쿠 검증
+
 T = int(input())
 oneToNine = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 for test_case in range(1, T + 1):
