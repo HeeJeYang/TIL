@@ -374,12 +374,12 @@
     - 순서가 있는 데이터 (Ordered) vs. 순서가 없는 데이터(Unordered)
     - 순서가 있다 ≠ 정렬되어 있다.
 - 시퀀스형
-    - 리스트
-    - 튜플
-    - 레인지
+    - 리스트(mutable)
+    - 튜플(immutable)
+    - 레인지(immutable)
 - 비시퀀스형
-    - 세트
-    - 딕셔너리
+    - 세트(mutable)
+    - 딕셔너리(mutable)
 
 ## 리스트(List)
 
